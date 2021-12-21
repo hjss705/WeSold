@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <shape>
+            <!--solid: 색깔 설정, corners: 가장자리 둥근 정도 설정-->
+            <solid android:color="@color/skyblue">
+
+            </solid>
+            <corners android:radius="20dp">
+
+            </corners>
+        </shape>
+    </item>
+</selector>
