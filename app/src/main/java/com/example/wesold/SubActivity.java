@@ -12,7 +12,7 @@ public class SubActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_login2);
 
         //닉네임규정 버튼 클릭시 액티비티 전환
         Button name_rule_btn = (Button) findViewById(R.id.login_main);
