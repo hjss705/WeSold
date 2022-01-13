@@ -8,12 +8,14 @@
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/drawable/btn_blue2.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_detailmain.xml" value="0.36614583333333334" />
-        <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_login2.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_signup.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/activity_sub.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/subactivity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/layout/test.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/sysoft/AndroidStudioProjects/WeSold/app/src/main/res/mipmap-anydpi-v26/ic_launcher_check.xml" value="0.22083333333333333" />
       </map>
