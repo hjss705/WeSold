@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112840154627",
+    "project_id": "wesold-99c74",
+    "storage_bucket": "wesold-99c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112840154627:android:91a2223c5aa392a7527836",
+        "android_client_info": {
+          "package_name": "com.example.wesold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112840154627-6oq35kh8uds8v76drtdflhft4coskjni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ing1G-iHkNXlP0v3nwRBT23hT07coRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112840154627-6oq35kh8uds8v76drtdflhft4coskjni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
