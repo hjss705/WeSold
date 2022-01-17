@@ -3,6 +3,7 @@ package com.example.wesold;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -73,6 +74,16 @@ public class Sub2Activity extends AppCompatActivity {
 
             }
 
+        });
+
+        Button imageButton = (Button) findViewById(R.id.button_naver);
+        imageButton.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), NaverMap.class);
+                startActivity(intent);
+            }
         });
 
 
