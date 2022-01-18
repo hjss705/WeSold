@@ -81,7 +81,7 @@ public class Sub2Activity extends AppCompatActivity {
 
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), NaverMap.class);
+                Intent intent = new Intent(getApplicationContext(), NaverMapView.class);
                 startActivity(intent);
             }
         });

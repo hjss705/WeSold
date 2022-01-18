@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.wesold" >
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
+        tools:ignore="CoarseFineLocation" />
+    <!-- 지도 api 현재 위치 추적을 위해 사용 허가를 받는 권한설정 -->
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -25,7 +29,7 @@
             android:name=".SignUpActivity"
             android:exported="true" />
         <activity
-            android:name=".NaverMap"
+            android:name=".NaverMapView"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
