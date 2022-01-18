@@ -14,5 +14,10 @@
         android:textSize="20dp"
         android:text="네이버지도"/>
 
+    <com.naver.maps.map.MapView
+        android:id="@+id/map_View"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
 </LinearLayout>
 
