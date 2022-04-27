@@ -34,16 +34,6 @@ public class NaverMapView extends AppCompatActivity implements OnMapReadyCallbac
     }
 
 
-    public void onRequestPerMissionsResult(int requestCode,
-                                           @NonNull String[] permissions, @NonNull int[]
-                                                   grantResults) {
-        if(locationSource.onRequestPermissionsResult(
-                requestCode, permissions, grantResults)) {
-        }
-        super.onRequestPermissionsResult(
-                requestCode,permissions,grantResults);
-    }
-
 
     @Override
     public void onMapReady(@NonNull com.naver.maps.map.NaverMap naverMap) {
